@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="library-basic">
+    <title>Basic library of variables</title>
+    <body>
+      <!-- Company information -->  
+        <p><keyword id="kw_company-name">Bob's Bike Mirrors</keyword></p>
+        <p><keyword id="kw_company-address">5 Farside Dr., Chicago IL</keyword></p>
+        <p><keyword id="kw_company_support">888-555-6200</keyword></p>
+      <!-- Product 1 information --> 
+        <p><keyword id="kw_product1-name">Everlast Mirror</keyword></p>
+        <p><keyword id="kw_product1-partno">2025-01-001</keyword></p>
+        <p><keyword id="kw_product1-cost">$19.99</keyword></p>
+      <!-- Product 2 information --> 
+        <p><keyword id="kw_product2-name">MaxView Mirror</keyword></p>
+        <p><keyword id="kw_product2-partno">2025-02-001</keyword></p>
+        <p><keyword id="kw_product2-cost">$29.99</keyword></p>
+        
+    </body>
+</topic>

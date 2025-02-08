@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>MaxView User Guide</title>
+    <topicref href="intro.dita"/>
+    <!-- Reference the key definition map for MaxView. -->
+    <mapref href="keymap_maxview.ditamap" processing-role="resource-only"/>
+</map>

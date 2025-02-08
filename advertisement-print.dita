@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_bpd_4tj_c2c">
+    <title>Advertisement - print</title>
+    <body>
+        <p>Labor Day Sale at 
+            <keyword conref="./library-basic.dita#library-basic/kw_company-name"/>           /></p>
+        <p>All our <keyword conref="library-basic.dita#library-basic/kw_product1-name"/> packages
+            are on sale for <keyword conref="./library-basic.dita#library-basic/kw_product1-cost"
+            />!!</p>
+        <p>All our <keyword conref="./library-basic.dita#library-basic/kw_product2-name"/> packages
+            are on sale for <keyword conref="library-basic.dita#library-basic/kw_product2-cost"
+            />!!</p>
+    </body>
+</topic>

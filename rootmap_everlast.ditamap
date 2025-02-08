@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Everlast User Guide</title>
+    <topicref href="intro.dita"/>
+    <!-- Reference the key definition map for Everlast. -->
+    <mapref href="keymap_everlast.ditamap" processing-role="resource-only"/>
+</map>
