@@ -1,5 +1,5 @@
 # Sample sources for the ACM SIGDOC article of DITA variables.
-These source maps and topics are used as exaples in the ACM SIGDOC Structured Authoring article on using DITA variables. The following three DITA rootmaps illustrate different aspects of using DITA variables.   
+These source maps and topics are used as examples in the ACM SIGDOC Structured Authoring article on using DITA variables. The following three DITA rootmaps illustrate different aspects of using DITA variables.   
 
 * ``rootmap_dita-variables.ditamap``: This map illustrates how DITA supports basic variable definition and referencing. This map references one DITA topic, ``advertisement-print.dita``. That topic contains three content references (@conrefs) to variables defined in the library topic ``library-basic.dita``.  
 
