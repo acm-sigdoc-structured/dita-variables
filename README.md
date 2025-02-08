@@ -6,3 +6,5 @@ These source maps and topics are used as exaples in the ACM SIGDOC Structured Au
 * ``rootmap_everlast.ditamap``: This map illustrates how to define and reference variables using DITA keys. This map references one key library, ``keymap_everlast.ditamap``, and one content topic, ``intro.dita``. This topic contains one key-based reference to a key defined in ``keymap_everlast.ditamap``.   
 
 * ``rootmap_maxview.ditamap``: Similar to ``rootmap_everlast.ditamap``, this map references one key definition library, ``keymap_maxview.ditamap``, and one content topic, ``intro.dita``. This topic is identical for both root maps and illustrates how a topic can inherit key values from different key definition maps.
+
+Contact sjdoherty.acm@gmail.com if you would like to augment these really basic sources.  
